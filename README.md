@@ -12,7 +12,8 @@ We compare DQN and PPO approaches for the task of collecting wood logs in Minecr
 ### Rendering Video of our trained model
 [![MineRL DQN Agent](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1gj5gNehtzzpjKOwnTWe909TPw2QIlBds/view?usp=drive_link)
 
-[![MineRL DQN Agent](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1ijB8jZFLVUQXNKsgVVMk-LmDZeFx2NTq/view?usp=drive_link)
+
+[![MineRL DQN Agent](https://github.com/user-attachments/assets/62f2840a-2c18-41bb-a013-6b0cf39372be)](https://drive.google.com/file/d/1ijB8jZFLVUQXNKsgVVMk-LmDZeFx2NTq/view?usp=drive_link)
 
 ### Citation
 If you use this code in your research, please cite our work.
