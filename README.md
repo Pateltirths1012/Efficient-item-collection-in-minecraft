@@ -9,7 +9,7 @@ We compare DQN and PPO approaches for the task of collecting wood logs in Minecr
 - OpenCV for observation processing
 - NumPy, Matplotlib for data processing and visualization
 
-### Rendering Video of our trained model
+### Video of Intial Training
 [![MineRL DQN Agent](https://github.com/user-attachments/assets/62f2840a-2c18-41bb-a013-6b0cf39372be)](https://drive.google.com/file/d/1ijB8jZFLVUQXNKsgVVMk-LmDZeFx2NTq/view?usp=drive_link)
 
 ### Citation
