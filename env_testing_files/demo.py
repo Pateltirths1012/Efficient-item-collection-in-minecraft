@@ -3,6 +3,9 @@ import minerl
 import logging
 import imageio
 logging.disable(logging.ERROR)
+import os
+
+os.environ['DISPLAY'] = ':0'
 
 # env = gym.make('MineRLBasaltFindCave-v0')
 # env = gym.make("MineRLTreechop-v0")
