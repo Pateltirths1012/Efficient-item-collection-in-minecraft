@@ -1,0 +1,9 @@
+2025-04-17 20:30:22 DESKTOP-C72GLVD process_watcher[33175] INFO Process watcher started between parent 33112 and child 33138 
+2025-04-17 20:34:16 DESKTOP-C72GLVD process_watcher[33175] INFO Parent is not running, hence we need terminate the child.
+2025-04-17 20:34:16 DESKTOP-C72GLVD process_watcher[33175] INFO About to reap process tree of 33138:launchClient.sh:/usr/bin/bash i sleeping, owner 17984, printing process tree status in termination order:
+2025-04-17 20:34:16 DESKTOP-C72GLVD process_watcher[33175] INFO 	-33142:java:/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java i sleeping, owner 33138
+2025-04-17 20:34:16 DESKTOP-C72GLVD process_watcher[33175] INFO 	-33138:launchClient.sh:/usr/bin/bash i sleeping, owner 17984
+2025-04-17 20:34:16 DESKTOP-C72GLVD process_watcher[33175] INFO Trying to SIGTERM 33142:java:/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java i sleeping, owner 33138
+2025-04-17 20:34:21 DESKTOP-C72GLVD process_watcher[33175] INFO Process 33142 survived SIGTERM; trying SIGKILL on 33142:java:/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java i sleeping, owner 33138
+2025-04-17 20:34:21 DESKTOP-C72GLVD process_watcher[33175] INFO Process psutil.Process(pid=33142, name='java', status='terminated', started='20:30:20') terminated with exit code None
+2025-04-17 20:34:21 DESKTOP-C72GLVD process_watcher[33175] INFO Process psutil.Process(pid=33138, name='launchClient.sh', status='terminated', started='20:30:20') does not exist or is zombie.
