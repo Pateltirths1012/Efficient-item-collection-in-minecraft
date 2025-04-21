@@ -1,6 +1,6 @@
 # Efficient-item-collection-in-Minecraft
 
-We compare DQN and PPO approaches for the task of collecting wood logs in Minecraft, a challenging 3D environment with complex visual inputs and sparse rewards. This project analyzes the performance characteristics, sample efficiency, and training stability of these two popular reinforcement learning algorithms.
+We have implemented and compared DQN and PPO algorithms for collecting wood logs in Minecraft. This project analyzes the performance characteristics, sample efficiency, and training stability of these two popular reinforcement learning algorithms.
 
 ### Requirements
 - Python 3.8+
